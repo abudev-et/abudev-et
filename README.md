@@ -1,7 +1,7 @@
 # 🚀 About Me:
 # 👋 Hi, I'm Abubeker Ahmed! 
 
-<img align="right" width=250px height=200px alt="side_sticker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZiMG40NmVsZXR4cjZ3ZTJyMTE4M3pka3BzMGxjajZrNG9yZTcybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T3vNjHWFAebpm/giphy.gif" style="width: 100%; max-width: 600px; />
+<img width=250px height=200px src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZiMG40NmVsZXR4cjZ3ZTJyMTE4M3pka3BzMGxjajZrNG9yZTcybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T3vNjHWFAebpm/giphy.gif" alt="side_sticker" style="width: 100%; max-width: 600px; />
 💡 Passionate about building full-stack applications with Next.js<br/>
 📖 Currently learning Three.js and Laravel<br/>
 🤝 Open to collaborating with other developers on innovative projects<br/>
